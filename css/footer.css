@@ -1,0 +1,43 @@
+.footer-content {
+    font-size: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+}
+.footer-content:hover {
+    font-size: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(122 199 203);
+}
+.footer-invoice{
+    width: 100%;
+    background-color: rgba(3, 6, 49, 0.3);
+}
+.footer-workorder{
+    width: 100%;
+    background-color: rgba(3, 6, 49, 0.3);
+}
+.footer-success{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(3, 6, 49, 0.3);
+}
+.footer-login{
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(185, 182, 182);
+    /* position: fixed; */
+}
